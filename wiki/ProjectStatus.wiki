@@ -1,0 +1,1 @@
+Currently the project features only a console app which makes a REST call to Azure's Service Management API.
