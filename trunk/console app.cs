@@ -1,5 +1,5 @@
 // ----------------------------------------------------------------------------------
-// Windows Azure health monitor project - 16/09/12 - X00097658 - Owen Sweeney. 
+// Windows Azure health monitor project.
 // ----------------------------------------------------------------------------------
 // A console application to access the status of a Cloud Service running in Windows 
 // Azure. A REST call is made by supplying the name of the service, the thumbprint
@@ -25,8 +25,7 @@ public class Test
     {
         Console.ForegroundColor = ConsoleColor.White;
 
-        // The thumbprint specified belongs to certificate 1 in the store, created 16/09/12. Certs 1, 5 and 6 are Azure management certs. Cert 4 is for remote desktop to the role.
-        string serviceName = "service110912", thumbprint = "FED505C4903772BA60C61D044B1EEAB42ECEAD61", subscriptionID = "54d306aa-6214-48df-9953-b79782c3b709";
+        string serviceName = "myServiceName", thumbprint = "myThumbprint", subscriptionID = "mySubscriptionID";
         Uri getDetailsRequest = new Uri("https://management.core.windows.net/" + subscriptionID + "/services/hostedservices/" + serviceName + "?embed-detail=true");
         HttpWebRequest request = (HttpWebRequest)WebRequest.Create(getDetailsRequest);
         request.Headers.Add("x-ms-version", "2012-03-01");
