@@ -1,0 +1,1 @@
+The console app can be run as a Visual Studio console application.
