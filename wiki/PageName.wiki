@@ -1,6 +1,0 @@
-Windows Azure health monitor
-
-= Status =
-At present the project consists solely of a console app which makes REST calls to Azure's Service Management API. 
-
-
