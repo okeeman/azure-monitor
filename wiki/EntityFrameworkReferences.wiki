@@ -1,1 +1,0 @@
-The monitoring project has dependencies on three dlls which do not get included in the package by default. To remedy this, open the References node of the project, right-click the relevant reference, select Properties, set Copy Local to true.
