@@ -1,1 +1,1 @@
-The console app can be run as a Visual Studio console application.
+The user is supplied with a certificate (.cer) which they must add to their role in the manner described in the certificate handling wiki. They then browse to the URL of the monitoring service and click the link to test their service. 
