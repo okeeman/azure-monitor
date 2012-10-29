@@ -1,1 +1,1 @@
-The project consists of an MVC4 application running in Windows Azure which reports the health status of an MVC3 application also running in Windows Azure. 
+The project currently consists of an MVC4 application running in Windows Azure which reports the health status of an MVC3 application also running in Windows Azure. 
