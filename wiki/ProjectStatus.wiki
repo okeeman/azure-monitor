@@ -1,1 +1,10 @@
-The project currently consists of an MVC4 application running in Windows Azure which reports the health status of an MVC3 application also running in Windows Azure. At present the user must click on the link again to get updated status information.
+The project currently consists of an MVC4 application running in Windows Azure which reports the health status of an MVC3 application also running in Windows Azure. 
+Issues which would improve the project include:
+  *At present the user must click on the link again to get updated status information. Perhaps an automatic refresh could be added.
+  *Improve the appearance of the User Interface.
+  *Allow for multiple instances of the user's cloud service role.
+  *Allow for multiple users.
+  *Determine what information needs to be stored in the database.
+  *Figure out a way of creating unique user IDs which will not be susceptible to problems caused by service restarts or multiple instances of the monitoring application.
+  *Develop the logic as a Web Service which can be called from any client.
+  *Deal with security concerns, e.g. secure transmission of sensitive data.  
