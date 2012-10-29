@@ -1,1 +1,1 @@
-Currently the project features only a console app which makes a REST call to Azure's Service Management API.
+The project consists of an MVC4 application running in Windows Azure which reports the health status of an MVC3 application also running in Windows Azure. 
