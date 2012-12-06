@@ -1,6 +1,6 @@
 = !JavaScript not present =
 
-A user's browser may not have !JavaScript present for many reasons. They may be using a browser which does not support JavaScript, e.g. Opera mobile, or they may have disabled JavaScript in their PC browser for security reasons.
+A user's browser may not have !JavaScript present for many reasons. They may be using a browser which does not support !JavaScript, e.g. Opera mobile, or they may have disabled !JavaScript in their PC browser for security reasons.
 
 = Error message =
 
