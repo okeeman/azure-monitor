@@ -1,6 +1,9 @@
 Major.Minor
 
 First iteration: 1.0
+
 Second iteration: 2.0
+
 Third iteration: 3.0
+
 Final version: 4.0
