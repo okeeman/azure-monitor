@@ -1,0 +1,53 @@
+﻿@model IEnumerable<AzureDoctor.Models.CloudService>
+
+@{
+    ViewBag.Title = "Test Service";
+}
+
+<h2>Windows Azure Cloud Service Health Status</h2>
+
+@* Overload 9 of 12: linkText, actionName, controllerName, (routeValues - taken out for now), ajaxOptions, htmlAttributes. All overloads with htmlAttributes have route values. *@
+@* Use Model properties to pass id route value, e.g. @Model.Id?? *@
+@Ajax.ActionLink("Get service health status",
+                        "TestService",
+                        "AzureDoctor",  
+                        new {id = "1"},                 
+    new AjaxOptions
+    {
+        HttpMethod = "POST",
+        InsertionMode = InsertionMode.Replace,
+        UpdateTargetId = "updateArea"
+    },
+    new {id = "ajaxButton"})
+
+<div id="updateArea">
+   <ul>
+        @* Displays text before request has been made. *@
+        <li>Service name: @ViewBag.ServiceName</li>
+        <li>Statuses: @if (ViewBag.StatusList != null){foreach (var s in ViewBag.StatusList){ @(s + " ") }} </li>
+        <li>Instance count: @ViewBag.InstanceCount</li>
+      @*<li>Deployment slot: @ViewBag.DeploymentSlot</li>
+        <li>Instance size: @ViewBag.InstanceSize</li>
+        <li id="instanceStatuses">Instance statuses: @foreach (string status in ViewBag.InstanceStatuses) { @(status + " ") } </li>
+        <li>Instance state details: @foreach (string state in ViewBag.InstanceStateDetails) { @(state + " ") }</li>
+        <li>Instance fault domains: @foreach (string domain in ViewBag.InstanceFaultDomains) { @(domain + " ") }</li>
+        <li>Instance error codes: @foreach (string errorCode in ViewBag.InstanceErrorCodes) { @(errorCode + " ") }</li>
+        <li>Virtual IP address: @ViewBag.VIPAddress</li>
+        <li>SDK version: @ViewBag.SDKVersion</li> *@
+        <li>Last update: @ViewBag.Time</li>
+ </ul>
+</div>
+
+<script>
+    setInterval(function () {
+        $('#ajaxButton').click();
+    },
+    30000);
+</script>
+
+
+
+
+
+
+
