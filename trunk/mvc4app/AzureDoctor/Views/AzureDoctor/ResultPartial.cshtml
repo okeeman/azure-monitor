@@ -1,0 +1,79 @@
+﻿<table>
+    <tr>
+        <th>Service name</th>
+    </tr>
+
+    <tr>
+        <td> @ViewBag.ServiceName</td>
+    </tr>
+
+    <tr>
+        <th>Instance count</th>
+    </tr>
+
+    <tr>
+        <td>@ViewBag.InstanceCount</td>
+    </tr>
+
+    <tr>
+        <th>Instance 0</th>
+        <th>Instance 1</th>
+    </tr>
+
+    <tr>
+        <!-- Null check here as the ViewBag will not have any data until data is returned from a request. An attempt to access a null array throws an exception. -->
+        <td>@if (ViewBag.InstanceStatuses != null){@ViewBag.InstanceStatuses[0]}</td>
+        <td>@if (ViewBag.InstanceStatuses != null){@ViewBag.InstanceStatuses[1]}</td>
+    </tr>
+
+    <tr>
+        <th>Instance size</th>
+    </tr>
+
+    <tr>
+        <td> @ViewBag.InstanceSize</td>
+    </tr>
+
+    <tr>
+        <th>Deployment slot</th>
+    </tr>
+
+    <tr>
+        <td> @ViewBag.DeploymentSlot</td>
+    </tr>
+
+    <tr>
+        <th>VM status</th>
+    </tr>
+
+    <tr>
+        <td>@if (ViewBag.StatusList != null){@ViewBag.StatusList[0]}</td>
+    </tr>
+
+    <tr>
+        <th>VIP address</th>
+    </tr>
+
+    <tr>
+        <td>@ViewBag.VIPAddress</td>
+    </tr>
+
+    <tr>
+        <th>Location</th>
+    </tr>
+
+    <tr>
+        <td>@ViewBag.Location</td>
+    </tr>
+
+    <tr>
+        <th>Last update</th>
+    </tr>
+
+    <tr>
+        <td>@ViewBag.Time</td>
+    </tr>
+</table>
+
+<input type="hidden" id="allinstanceshealthyinput" data-allinstanceshealthy="@ViewBag.AllInstancesHealthy" />
+
