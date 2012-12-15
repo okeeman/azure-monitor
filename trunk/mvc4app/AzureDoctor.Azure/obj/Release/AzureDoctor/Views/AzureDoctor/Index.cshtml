@@ -1,0 +1,33 @@
+﻿@model IEnumerable<AzureDoctor.Models.CloudService>
+
+@{
+    ViewBag.Title = "Test Service";
+}
+
+<div class="ajaxButtonDiv" >
+    @* Overload 9 of 12: linkText, actionName, controllerName, routeValues, ajaxOptions, htmlAttributes. *@
+    @Ajax.ActionLink("Check Health",
+                     "TestService",
+                     "AzureDoctor",  
+                     new {id = "1"},                 
+                     new AjaxOptions
+                     {
+                         HttpMethod = "POST",
+                         InsertionMode = InsertionMode.Replace,
+                         UpdateTargetId = "updateArea",
+                         OnSuccess = "displayStatus()"
+                     },
+                     new { id = "ajaxButton", onclick = "displayLoadingImage()" })
+</div>
+
+<div id="updateArea">
+  @Html.Partial("ResultPartial")
+</div>
+
+<script src="@Url.Content("~/bundles/ajax")" ></script>
+
+
+
+
+
+
