@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDoctor", "AzureDoctor\AzureDoctor.csproj", "{BCBD6D25-14C1-445B-B291-3D983979BE62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDoctor.Tests", "AzureDoctor.Tests\AzureDoctor.Tests.csproj", "{86D0EEE2-B87E-4086-8CC8-0D7F63B04E14}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "AzureDoctor.Azure", "AzureDoctor.Azure\AzureDoctor.Azure.ccproj", "{DA422158-4691-455F-892B-989E92E05A39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCBD6D25-14C1-445B-B291-3D983979BE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCBD6D25-14C1-445B-B291-3D983979BE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCBD6D25-14C1-445B-B291-3D983979BE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCBD6D25-14C1-445B-B291-3D983979BE62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D0EEE2-B87E-4086-8CC8-0D7F63B04E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D0EEE2-B87E-4086-8CC8-0D7F63B04E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D0EEE2-B87E-4086-8CC8-0D7F63B04E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D0EEE2-B87E-4086-8CC8-0D7F63B04E14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA422158-4691-455F-892B-989E92E05A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA422158-4691-455F-892B-989E92E05A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA422158-4691-455F-892B-989E92E05A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA422158-4691-455F-892B-989E92E05A39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
