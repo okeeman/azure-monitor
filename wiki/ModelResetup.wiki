@@ -8,4 +8,4 @@ Due to having to change Windows Azure accounts it became necessary to redo the E
 
 3. Create new EF: in Models folder > right-click on Model > Add new item > Data > Add new ADO.net Entity Data Model
 
-4. 
+4. New DS: right-click on Model > Add new item > Web > Domain Service Class
