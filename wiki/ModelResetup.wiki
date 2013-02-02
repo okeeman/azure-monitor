@@ -1,0 +1,7 @@
+Due to having to change Windows Azure accounts it became necessary to redo the Entity Framework connections and the domain service class. This wiki is to be used as a guide to resetting up these connections as I have forgotten how to do it by the time it has to be done again.
+
+0. If the program is not working locally try running the basic functionality in a console app. If it works in a console then there isn't an issue with the certificate. The problem is probably with the EF connection.
+
+1. Delete old EF and DS
+
+2. check NuGet for package updates: Project > Manage NuGet packages > Updates
