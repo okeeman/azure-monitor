@@ -4,4 +4,8 @@ Due to having to change Windows Azure accounts it became necessary to redo the E
 
 1. Delete old EF and DS
 
-2. check NuGet for package updates: Project > Manage NuGet packages > Updates
+2. Check !NuGet for package updates: Project > Manage NuGet packages > Updates.
+
+3. Create new EF: in Models folder > right-click on Model > Add new item > Data > Add new ADO.net Entity Data Model
+
+4. 
