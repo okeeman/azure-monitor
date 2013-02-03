@@ -4,7 +4,7 @@ Due to having to move the database between Windows Azure accounts it became nece
 
 1. Delete old EF and DS
 
-2. Check !NuGet for package updates: Project > Manage !NuGet packages > Updates. *** This step caused the UI to break. See jQueryUpdate ***
+2. Check !NuGet for package updates: Project > Manage !NuGet packages > Updates. # This step caused the UI to break. See jQueryUpdate wiki #
 
 3. Create new EF: in Models folder > right-click on Model > Add new item > Data > Add new ADO.net Entity Data Model
 
