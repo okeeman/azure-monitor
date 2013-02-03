@@ -1,0 +1,1 @@
+Updating to the latest version of jQuery on 02/02/12 caused the displayStatus function to break. The table and heart were not being displayed. Reverting back to jQuery 1.8.3 and jQueryUI 1.9.2 solved the issue.
