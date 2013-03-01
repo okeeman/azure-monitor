@@ -8,3 +8,4 @@ Uploading from Visual Studio provides the benefit of having more information abo
 
 To publish from Visual Studio you must first obtain your subscription's publish settings. This file is available from the following link:
 https://windows.azure.com/download/publishprofile.aspx
+In addition to dwonloading your publish settings file this will cause Azure to create a certificate, insert it as a management certificate in your subscription and install it into the certtificate store of your computer.
