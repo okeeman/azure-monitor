@@ -1,0 +1,10 @@
+The first worker role project developed worked correctly locally but did not work when deployed to Azure. It proved difficualt to debug this issue as a worker role does not have a front-end and no error messages were accessible to pinpoint the problem. An effort was made to use IntelliTrace. This worked well at first. IntelliTrace can connect to the Azure role from Visual Studio and display information from the role. I put some Trace.WriteLine information statements into the worker role project to aid in determining where the issue was. I was able to read these in Visual Studio and other messages generated automatically. Two things prevented solving the problem at this stage:
+(i) The exception being thrown was not the one which was causing the problem. (ii) IntelliTrace stopped working. It was showing an error: System.pdb not found. 
+
+The reason that the exception being thrown was not the one causing the problem was that in a misguided attempt at debugging I had commented out some exceptions and replaced them with Trace.WriteLine statements. This resulted in the program progressing past the code area causing difficulty and encountering another related problem further on which did throw an exception.
+
+I also briefly investigated the idea of using Azure diagnostics to debug the issue but there was a learning curve involved with this and I was under time pressure to resolve the issue.
+
+The resolution came through using my own initiative, co-operation with my project supervisor and the codung community at-large. 
+
+The certficate handling was done in the same manner as for the web role, i.e. upload the .pfx to Azure before deploying the application, associate the certificate name, thumbprint and certificate store location with the Azure project in Visual Studio. 
