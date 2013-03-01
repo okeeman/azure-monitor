@@ -1,0 +1,6 @@
+== What are certificates? ==
+Certificates are commonly used to establish identity and encrypt data for transmission across the internet. The Windows Azure Service Management API requires that all requests to it are signed with a certificate associated with the subscription being queried. 
+
+== Certificate features == 
+The type of certificate used with Azure is known as X509.
+The most relevant features for Azure are the thumbprint and the expiry date.
