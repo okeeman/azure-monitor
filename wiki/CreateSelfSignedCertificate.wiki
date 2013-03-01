@@ -1,0 +1,3 @@
+A self-signed certificate may be created by running the Visual Studio command-line as administrator. Run the following code:
+
+TBD
