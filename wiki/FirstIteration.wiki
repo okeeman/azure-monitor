@@ -1,0 +1,40 @@
+=Windows Azure Cloud Service monitor=
+==Owen's Higher Diploma in Computing project==
+This project consists of a health monitor for a Cloud Service running in Windows Azure. The user of this application will have their own cloud service which is hosted on Windows Azure. The monitoring application sends REST requests to the Azure Service Management API periodically regarding the user's cloud service health. The XML document returned by Azure is parsed and the relevant data is displayed to the user.
+
+= First iteration =
+== Major features == 
+  * Web app developed using ASP.NET MVC 4.
+  * Web app hosted on Windows Azure at http://azuredoctor.cloudapp.net/.
+  * Database hosted on Windows Azure.  
+  * The user accesses the application using a Web browser. They click the link presented to obtain the health status of their cloud service.
+  * jQuery and Ajax are used to provide an auto-refresh. The link is given an id to allow jQuery to access it and uses the setInterval method to click the link every 30 seconds.
+  * Unobtrusive !JavaScript: app still works if !JavaScript not present. Displays a message to the user alerting them if !JavaScript is not present. jQuery is used to hide a div with the message.
+  * Unit test performed on the method in the !HealthModel class.
+  * MVC pattern maintained by placing most of the work in a model class and having a skinny controller.
+  * jQuery and CSS are used to provide a "Loading" spinner when the link has been clicked and until the results are returned.
+  * jQuery is used to hide the results table until the Ajax method completes successfully.
+  * jQuery and CSS are used to provide a graphical representation of the health status; green heart = All OK, red heart = one or more instances not ready to accept requests.
+  * The service being monitored and the monitoring service are in different subscriptions and different locations. Monitoring service is in West Europe, service being monitored is in South Central US.
+
+== Other features == 
+  * All jQuery scripts put in the Scripts folder rather than directly on the pages. They are bundled in !BundleConfig (provides minification and minimises number of requests and payload size) and referenced on the pages.
+  * Favicon which works in all browsers.
+  * VersionNumberingSystem implemented.
+  * Tested in multiple browsers, viz. Firefox, Internet Explorer 9, Google Chrome, Opera mini (for mobiles, no !JavaScript support), Android browser (!JavaScript support).
+  * Descriptive link text used for search engine optimisation.
+  * Version control using Google Code Subversion and Tortoise SVN.
+  * Client-side validation enabled by adding validation attributes in a domain service class.
+  * Code maintainability index of 85.
+
+== Issues overcome ==
+ * Creating a http GET request.
+ * Understanding certificates; what they are, how they work, where they are stored, how to access them.
+ * All Azure Service Management requests must be signed by a management certificate for the cloud service which the request is being made for. It is proposed to handle this by providing the user with a certificate which I create and the user makes a management certificate in their Azure subscription.
+ * Creating a <i>button</i> for the user to click. The Razor Ajax.!ActionLink method is used to create a hyperlink. CSS is used to make it look like a button. 
+ * Getting Internet Explorer to work in a manner consistent with Firefox and Chrome, e.g. had to change Ajax request from GET to POST to get auto-refresh to work, had to set border to zero to get rid of a black border around the logo image.
+ * Learning jQuery in greater depth, DOM manipulation.
+ * !ViewBag transfers the bool value true from the server as a string with capital T, "True". This caused a problem as I was comparing a jQuery variable to true originally.
+ * Working with client-side code(jQuery) and server-side code(Razor) in the Views was confusing at first.
+ * ObjectContextConversion: had to convert the Entity Framework model from !DbContext to !ObjectContext in order to add a Domain Service class.
+ * DomainServiceReferences: The monitoring project has dependencies on three .dll's which do not get included in the package by default. To remedy this, open the References node of the project, right-click the relevant reference, select Properties, set Copy Local to true. 
