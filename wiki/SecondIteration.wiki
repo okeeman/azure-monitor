@@ -33,7 +33,8 @@ The certificate table is not linked to the others but each of the others is link
 
 ==Issues overcome for the second iteration==
  * Wikis have been created to describe the issues encountered and how they were overcome.
- * The biggest issue overcome for the second iteration was enabling the worker role to access its certificate store in Windows Azure. The web role was able to access the certificate store without any problems but the worker role required the runtime execution context to be elevated and for the management certificate to be stored in the !LocalMachine certificate store rather than the !CurrentUser store.
+ * The biggest issue overcome for the second iteration was enabling the worker role to access its certificate store in Windows Azure. It was able to access the certificate store without any problems locally but in Azure it was necessary for the runtime execution context to be elevated and for the management certificate to be stored in the !LocalMachine certificate store rather than the !CurrentUser store.
+ * Debugging a worker role: As there is no front-end for a worker role it can be difficult to debug problems. Whilst trying to debug this issue I placed an SMS push in the exception handler of the worker role Run method . The SMS push provided the details of the exception being thrown and was of great assistance in tracking down the source of the problem.
  * Designing the database to accommodate a variable number of cloud services per subscription and a variable number of instances per cloud service proved to be challenging.
  * Creating a dynamic GUI.
  * Figuring out how the SMS API works.
@@ -46,7 +47,6 @@ The certificate table is not linked to the others but each of the others is link
   * The service being monitored and the monitoring service are in different subscriptions and different locations. Monitoring service is in South Central US, service being monitored is in West Europe.
   * All jQuery scripts put in the Scripts folder rather than directly on the pages. They are bundled in !BundleConfig (provides minification and minimises number of requests and payload size) and referenced on the pages.
   * Favicon which works in all browsers.
-  * Tested in multiple browsers, viz. Firefox, Internet Explorer 9, Google Chrome, Opera mini (for mobiles, no !JavaScript support), Android browser (!JavaScript support).
   * Descriptive link text used for search engine optimisation.
   * Version control using Google Code Subversion and Tortoise SVN.
   
