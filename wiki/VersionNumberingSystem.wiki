@@ -1,3 +1,0 @@
-Major.Minor
-
-First iteration: 1.0<br>Second iteration: 2.0<br>Third iteration: 3.0<br>Final version: 4.0
