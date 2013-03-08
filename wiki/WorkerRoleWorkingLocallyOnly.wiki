@@ -1,3 +1,0 @@
-Tried taking out exceptions and console references. Didn't enable !IntelliTrace as some users reported issues with it. Service was working perfectly locally - sending SMS messages as appropriate - but was unhealthy when deployed. !IntelliTrace indicated that the cert was not found even though it was uploaded. 
-
-Managed to get an upload running healthily but it is still not sending SMS messages.
