@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="AzureDoctor.Azure" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="1" osVersion="*" schemaVersion="2012-10.1.8">
+  <Role name="AzureDoctor">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=azuredoctor;AccountKey=qGCyb64QmisGAQaom28HTggYDNBJ5FlLtEw1SDtuJhbs0fzgI9XZSDScj8R+AfAQWqu9bQCDoTiHNItdyHjDwA==" />
+    </ConfigurationSettings>
+    <Certificates>
+      <Certificate name="AzureCert231212" thumbprint="E44005204846FFC2430E1FD7311EF21DE0496A36" thumbprintAlgorithm="sha1" />
+    </Certificates>
+  </Role>
+</ServiceConfiguration>

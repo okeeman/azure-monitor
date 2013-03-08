@@ -1,0 +1,79 @@
+﻿@if (@ViewBag.CloudServiceCollection != null)
+{
+<table>
+    <tr>
+        <th>Service name</th>
+    </tr>
+
+    <tr>
+        <td>@ViewBag.CloudServiceCollection[0].CloudServiceName</td>
+    </tr>
+
+    <tr>
+        <th>Instance count</th>
+    </tr>
+
+    <tr>
+        <td>@ViewBag.RequestResult.InstanceCount</td>
+    </tr>
+   
+    <tr>
+        @foreach (var status in ViewBag.RequestResult.InstanceStatuses) {<th>Instance Status</th>}
+    </tr>
+
+    <tr>
+       @foreach (var status in ViewBag.RequestResult.InstanceStatuses) {<td>@status</td>}
+    </tr>
+
+    <tr>
+        <th>Instance size</th>
+    </tr>
+
+    <tr>
+        <td>@ViewBag.RequestResult.InstanceSize</td>
+    </tr>
+
+    <tr>
+        <th>Deployment slot</th>
+    </tr>
+
+    <tr>
+        <td> @ViewBag.RequestResult.DeploymentSlot</td>
+    </tr>
+
+    <tr>
+        <th>Hosted Service status</th>
+    </tr>
+
+    <tr>
+        <td>@if (ViewBag.RequestResult.HostedServiceStatus != null){@ViewBag.RequestResult.HostedServiceStatus}</td>
+    </tr>
+
+    <tr>
+        <th>VIP address</th>
+    </tr>
+
+    <tr>
+        <td>@ViewBag.RequestResult.VIPAddress</td>
+    </tr>
+
+    <tr>
+        <th>Location</th>
+    </tr>
+
+    <tr>
+        <td>@ViewBag.RequestResult.Location</td>
+    </tr>
+
+    <tr>
+        <th>Last update</th>
+    </tr>
+
+    <tr>
+        <td>@ViewBag.RequestResult.DateTime</td>
+    </tr>
+</table>
+    
+<input type="hidden" id="allinstanceshealthyinput" data-allinstanceshealthy="@ViewBag.RequestResult.AllInstancesHealthy" />
+}
+
