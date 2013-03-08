@@ -1,0 +1,10 @@
+G:\Semester 2\Project\ADworker030313\WorkerRoleUnitTests\bin\Debug\WorkerRoleUnitTests.dll.config
+G:\Semester 2\Project\ADworker030313\WorkerRoleUnitTests\bin\Debug\WorkerRoleUnitTests.dll
+G:\Semester 2\Project\ADworker030313\WorkerRoleUnitTests\bin\Debug\WorkerRoleUnitTests.pdb
+G:\Semester 2\Project\ADworker030313\WorkerRoleUnitTests\obj\Debug\WorkerRoleUnitTests.csprojResolveAssemblyReference.cache
+G:\Semester 2\Project\ADworker030313\WorkerRoleUnitTests\obj\Debug\WorkerRoleUnitTests.dll
+G:\Semester 2\Project\ADworker030313\WorkerRoleUnitTests\obj\Debug\WorkerRoleUnitTests.pdb
+G:\Semester 2\Project\ADworker030313\WorkerRoleUnitTests\bin\Debug\WorkerRole1.dll
+G:\Semester 2\Project\ADworker030313\WorkerRoleUnitTests\bin\Debug\WorkerRole1.pdb
+G:\Semester 2\Project\ADworker030313\WorkerRoleUnitTests\bin\Debug\WorkerRoleUnitTests.dll.CodeAnalysisLog.xml
+G:\Semester 2\Project\ADworker030313\WorkerRoleUnitTests\bin\Debug\WorkerRoleUnitTests.dll.lastcodeanalysissucceeded
