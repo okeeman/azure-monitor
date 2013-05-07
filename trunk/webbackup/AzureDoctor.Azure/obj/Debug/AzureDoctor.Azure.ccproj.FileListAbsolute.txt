@@ -1,0 +1,538 @@
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Antlr3.Runtime.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\AzureDoctor.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\AzureDoctor.pdb
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\de\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\de\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\de\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.Core.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.Core.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\EntityFramework.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\EntityFramework.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\es\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\es\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\es\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\fr\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\fr\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\fr\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\it\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\it\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\it\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ja\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ja\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ja\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ko\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ko\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ko\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Newtonsoft.Json.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Newtonsoft.Json.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ru\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ru\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ru\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.Formatting.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.Formatting.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.WebRequest.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.WebRequest.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.EntityFramework.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.EntityFramework.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Hosting.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Hosting.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Server.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Server.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Helpers.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Helpers.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.WebHost.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.WebHost.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Mvc.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Mvc.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Optimization.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Razor.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Razor.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Razor.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Razor.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebGrease.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.Data.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.Data.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.WebData.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.WebData.xml
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hans\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hans\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hant\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hant\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Owen\Documents\ITT material backups\Project backup 121212 2210\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\bin\Debug\ServiceConfiguration.cscfg
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Antlr3.Runtime.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\AzureDoctor.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\AzureDoctor.dll.CodeAnalysisLog.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\AzureDoctor.dll.lastcodeanalysissucceeded
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\AzureDoctor.pdb
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\de\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\de\System.ServiceModel.DomainServices.Hosting.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\de\System.ServiceModel.DomainServices.Server.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.AspNet.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.AspNet.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.Core.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.Core.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\EntityFramework.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\EntityFramework.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\es\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\es\System.ServiceModel.DomainServices.Hosting.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\es\System.ServiceModel.DomainServices.Server.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\fr\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\fr\System.ServiceModel.DomainServices.Hosting.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\fr\System.ServiceModel.DomainServices.Server.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\it\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\it\System.ServiceModel.DomainServices.Hosting.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\it\System.ServiceModel.DomainServices.Server.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ja\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ja\System.ServiceModel.DomainServices.Hosting.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ja\System.ServiceModel.DomainServices.Server.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ko\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ko\System.ServiceModel.DomainServices.Hosting.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ko\System.ServiceModel.DomainServices.Server.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.Web.Infrastructure.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.Configuration.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.Diagnostics.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.Diagnostics.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.StorageClient.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Newtonsoft.Json.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Newtonsoft.Json.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ru\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ru\System.ServiceModel.DomainServices.Hosting.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ru\System.ServiceModel.DomainServices.Server.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.Formatting.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.Formatting.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.WebRequest.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.WebRequest.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.EntityFramework.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.EntityFramework.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Hosting.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Hosting.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Server.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Server.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Helpers.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Helpers.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.WebHost.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.WebHost.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Mvc.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Mvc.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Optimization.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Razor.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Razor.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Deployment.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Deployment.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Razor.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Razor.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebGrease.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.Data.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.Data.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.WebData.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.WebData.xml
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hans\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hans\System.ServiceModel.DomainServices.Hosting.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hant\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hant\System.ServiceModel.DomainServices.Hosting.resources.dll
+F:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\bin\Debug\ServiceConfiguration.cscfg
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\bin\Debug\ServiceDefinition.csdef
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Antlr3.Runtime.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\AzureDoctor.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\AzureDoctor.dll.CodeAnalysisLog.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\AzureDoctor.dll.lastcodeanalysissucceeded
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\AzureDoctor.pdb
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\de\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\de\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\de\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.AspNet.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.AspNet.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.Core.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.Core.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\EntityFramework.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\EntityFramework.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\es\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\es\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\es\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\fr\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\fr\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\fr\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\it\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\it\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\it\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ja\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ja\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ja\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ko\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ko\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ko\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.Web.Infrastructure.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.Web.WebPages.OAuth.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.Web.WebPages.OAuth.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.Configuration.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.Diagnostics.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.Diagnostics.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.StorageClient.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Newtonsoft.Json.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Newtonsoft.Json.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ru\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ru\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ru\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.Formatting.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.Formatting.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.WebRequest.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.WebRequest.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.EntityFramework.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.EntityFramework.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Hosting.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Hosting.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Server.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Server.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Helpers.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Helpers.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.WebHost.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.WebHost.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Mvc.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Mvc.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Optimization.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Razor.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Razor.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Deployment.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Deployment.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Razor.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Razor.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebGrease.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.Data.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.Data.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.WebData.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.WebData.xml
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hans\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hans\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hant\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hant\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctor\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctor - Copy (2)\AzureDoctor.Azure\bin\Debug\ServiceConfiguration.cscfg
+G:\Semester 2\Project\AzureDoctor - Copy (2)\AzureDoctor.Azure\bin\Debug\ServiceDefinition.csdef
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\bin\Debug\ServiceConfiguration.cscfg
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\bin\Debug\ServiceDefinition.csdef
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Antlr3.Runtime.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\AzureDoctor.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\AzureDoctor.pdb
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\de\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\de\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\de\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.AspNet.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.AspNet.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.Core.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.Core.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\EntityFramework.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\EntityFramework.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\es\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\es\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\es\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\fr\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\fr\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\fr\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\it\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\it\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\it\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ja\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ja\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ja\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ko\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ko\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ko\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.Web.Infrastructure.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.Web.WebPages.OAuth.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.Web.WebPages.OAuth.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.Configuration.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.Diagnostics.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.Diagnostics.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.StorageClient.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Newtonsoft.Json.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Newtonsoft.Json.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ru\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ru\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ru\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.Formatting.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.Formatting.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.WebRequest.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.WebRequest.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.EntityFramework.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.EntityFramework.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Hosting.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Hosting.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Server.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Server.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Helpers.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Helpers.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.WebHost.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.WebHost.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Mvc.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Mvc.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Optimization.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Razor.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Razor.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Deployment.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Deployment.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Razor.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Razor.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebGrease.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.Data.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.Data.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.WebData.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.WebData.xml
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hans\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hans\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hant\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hant\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctorPresentation\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\bin\Debug\ServiceConfiguration.cscfg
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\bin\Debug\ServiceDefinition.csdef
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Antlr3.Runtime.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\AzureDoctor.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\AzureDoctor.pdb
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\de\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\de\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\de\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.AspNet.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.AspNet.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.Core.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.Core.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\EntityFramework.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\EntityFramework.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\es\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\es\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\es\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\fr\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\fr\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\fr\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\it\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\it\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\it\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ja\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ja\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ja\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ko\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ko\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ko\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.Web.Infrastructure.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.Web.WebPages.OAuth.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.Web.WebPages.OAuth.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.Configuration.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.Diagnostics.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.Diagnostics.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.StorageClient.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Newtonsoft.Json.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Newtonsoft.Json.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ru\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ru\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ru\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.Formatting.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.Formatting.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.WebRequest.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.WebRequest.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.EntityFramework.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.EntityFramework.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Hosting.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Hosting.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Server.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Server.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Helpers.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Helpers.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.WebHost.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.WebHost.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Mvc.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Mvc.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Optimization.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Razor.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Razor.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Deployment.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Deployment.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Razor.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Razor.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebGrease.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.Data.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.Data.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.WebData.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.WebData.xml
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hans\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hans\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hant\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hant\System.ServiceModel.DomainServices.Hosting.resources.dll
+G:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\bin\Debug\ServiceConfiguration.cscfg
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\bin\Debug\ServiceDefinition.csdef
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Antlr3.Runtime.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\AzureDoctor.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\AzureDoctor.pdb
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\de\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\de\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\de\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.AspNet.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.AspNet.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.Core.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.Core.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OAuth.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\DotNetOpenAuth.OpenId.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\EntityFramework.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\EntityFramework.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\es\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\es\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\es\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\fr\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\fr\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\fr\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\it\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\it\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\it\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ja\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ja\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ja\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ko\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ko\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ko\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.Web.Infrastructure.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Newtonsoft.Json.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\Newtonsoft.Json.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ru\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ru\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\ru\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.Formatting.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.Formatting.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.WebRequest.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.WebRequest.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Net.Http.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.EntityFramework.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.EntityFramework.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Hosting.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Hosting.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Server.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.ServiceModel.DomainServices.Server.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Helpers.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Helpers.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.WebHost.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.WebHost.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Http.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Mvc.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Mvc.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Optimization.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Razor.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.Razor.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Deployment.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Deployment.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Razor.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.Razor.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\System.Web.WebPages.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebGrease.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.Data.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.Data.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.WebData.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\WebMatrix.WebData.xml
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hans\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hans\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hant\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hant\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Semester 2\Project\AzureDoctor260313\AzureDoctor.Azure\obj\Debug\AzureDoctor\bin\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll

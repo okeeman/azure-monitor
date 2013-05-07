@@ -1,0 +1,105 @@
+﻿@if (@ViewBag.ResultCollection != null)
+{
+<div id="resultDiv">
+</div> 
+
+int count = 0;
+ 
+<table>
+    <tr>
+        <th class="highlightText">Health results</th>
+    </tr>
+
+    <tr>
+        <th>Cloud Service Name</th>  <th>&nbsp;Instance Statuses</th>
+    </tr>  
+        
+    @foreach (var result in ViewBag.ResultCollection)
+    {
+        <tr>
+            <td>@ViewBag.CloudServiceCollection[count].CloudServiceName</td>  @foreach (var status in result.InstanceStatuses) {<td>&nbsp;@status</td>}              
+        </tr>
+        
+        count++;
+    }
+
+    <tr>
+        <th>Last update</th>    
+    </tr>
+
+    <tr>
+        <td>@ViewBag.ResultCollection[0].DateTime</td>
+    </tr>
+
+    <tr>
+        <th>Location</th>    
+    </tr>
+
+    <tr>
+        <td>@ViewBag.ResultCollection[0].Location</td>
+    </tr>
+</table>
+
+count = 0;   
+<table>
+    <tr>
+        <th class="highlightText">Cloud Service Details</th>
+    </tr>
+
+    @foreach (var result in ViewBag.ResultCollection)
+    {   
+        <tr>
+            <th>Cloud Service Name</th>        
+        </tr>
+        
+        <tr>
+            <td>@ViewBag.CloudServiceCollection[count].CloudServiceName</td>        
+        </tr>
+        
+        <tr>
+            <th>Instance Count</th>
+        </tr>
+        
+        <tr>
+            <td>@result.InstanceCount</td>
+        </tr>
+        
+        <tr>
+            <th>Instance size</th>
+        </tr>
+        
+        <tr>
+            <td>@result.InstanceSize</td>
+        </tr>
+        
+        <tr>
+            <th>Deployment slot</th>
+        </tr>
+        
+        <tr>
+            <td>@result.DeploymentSlot</td>
+        </tr>
+        
+        <tr>
+            <th>Hosted Service status</th>
+        </tr>
+        
+        <tr>
+            <td>@result.HostedServiceStatus</td>
+        </tr>
+        
+        <tr>
+            <th>VIP address</th>
+        </tr>
+        
+        <tr>
+            <td>@result.VIPAddress</td>
+        </tr>
+    count++;
+    }
+
+</table>
+    
+<input type="hidden" id="allinstanceshealthyinput" data-allinstanceshealthy="@ViewBag.OverallAllInstancesHealthy" />
+}
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e411412bdd3a4056869c7aef01ddbc31" Name="Diagram1" DisplayType="true">
+        <EntityTypeShape EntityType="AzureDoctorModel.Certificate" Width="2" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AzureDoctorModel.CloudService" Width="2.375" PointX="3.875" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="AzureDoctorModel.InstanceStatu" Width="2.25" PointX="10.25" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AzureDoctorModel.RequestResult" Width="2.25" PointX="7.25" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AzureDoctorModel.Subscription" Width="2.375" PointX="0.75" PointY="1.875" IsExpanded="true" />
+        <AssociationConnector Association="AzureDoctorModel.CloudServiceFK" ManuallyRouted="false" />
+        <AssociationConnector Association="AzureDoctorModel.RequestResultFK" ManuallyRouted="false" />
+        <AssociationConnector Association="AzureDoctorModel.InstanceStatusFK" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

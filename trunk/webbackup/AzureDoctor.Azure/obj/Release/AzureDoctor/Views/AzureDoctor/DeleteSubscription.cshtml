@@ -1,0 +1,42 @@
+﻿@model AzureDoctor.Models.Subscription
+
+@{
+    ViewBag.Title = "Delete Subscription";
+}
+
+<hgroup class="title">
+    <h1>@ViewBag.Title</h1>
+</hgroup>
+
+<div class="center">
+    <h3>Are you sure you want to delete this Subscription?</h3>
+    <fieldset>
+        <legend>Subscription</legend>
+        @Html.HiddenFor(model => model.SubscriptionRecordID)
+        @Html.HiddenFor(model => model.UserId)
+        @Html.HiddenFor(model => model.PhoneNumber)
+        @Html.HiddenFor(model => model.Status)
+
+        <div class="display-label">
+             @Html.DisplayNameFor(model => model.SubscriptionName)
+        </div>
+
+        <div class="display-field">
+            @Html.DisplayFor(model => model.SubscriptionName)
+        </div>
+
+        <div class="display-label">
+            @Html.DisplayNameFor(model => model.AzureSubscriptionID)
+        </div>
+
+        <div class="display-field">
+            @Html.DisplayFor(model => model.AzureSubscriptionID)
+        </div>
+    </fieldset>
+    @using (Html.BeginForm()) {
+        <p>
+            <input type="submit" value="Delete" /> 
+            <br>@Html.ActionLink("Back to Overview", "Overview")
+        </p>
+    }
+</div>
