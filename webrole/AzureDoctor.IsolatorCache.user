@@ -1,0 +1,299 @@
+ÙbRÔb
+³R®
+iReaAzureDoctor.Tests.Controllers.AzureDoctorControllerIntegrationTests.TestMakeHealthRequestMethod()(
+QRMKAzureDoctor.Tests.Controllers.AzureDoctorControllerIntegrationTests..ctor()ng:\semester 2\project\azuredoctor090513\azuredoctor.tests\controllers\azuredoctorcontrollerintegrationtests.cs
+†R
+;R75AzureDoctor.Tests.Controllers.UnitTest1.TestMethod1()
+gRcaAzureDoctor.Tests.Controllers.AzureDoctorControllerIntegrationTests.TestMakeHealthRequestMethod()
+fRb`AzureDoctor.Tests.Controllers.AzureDoctorControllerIntegratioTests.TestMakeHealthRequestMethod()
+]	RYWAzureDoctor.Tests.Controllers.AzureDoctorControllerITests.TestMakeHealthRequestMethod()
+\
+RXVAzureDoctor.Tests.Controllers.AzureDoctorControllerTests.TestMakeHealthRequestMethod()
+`R\ZAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.TestMakeHealthRequestMethod()Rg:\semester 2\project\azuredoctor090513\azuredoctor.tests\controllers\unittest1.cs
+´R¯
+iReaAzureDoctor.Tests.Controllers.AzureDoctorControllerIntegrationTests.TestMakeHealthRequestMethod()(
+hRd`AzureDoctor.Tests.Controllers.AzureDoctorControllerIntegratioTests.TestMakeHealthRequestMethod()(
+_R[WAzureDoctor.Tests.Controllers.AzureDoctorControllerITests.TestMakeHealthRequestMethod()(
+^RZVAzureDoctor.Tests.Controllers.AzureDoctorControllerTests.TestMakeHealthRequestMethod()(
+bR^ZAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.TestMakeHealthRequestMethod()(
+JRFDAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests..ctor()gg:\semester 2\project\azuredoctor090513\azuredoctor.tests\controllers\azuredoctorcontrollerunittests.cs
+ýRø
+.R*(AzureDoctor.Models.RequestResult..ctor()
+aR]YAzureDoctor.Models.RequestResult.MakeHealthRequest(Subscription,CloudService,Certificate)(
+7R31AzureDoctor.Models.RequestResult.get_StatusList()
+;R75AzureDoctor.Models.RequestResult.set_StatusList(List)
+=R97AzureDoctor.Models.RequestResult.get_InstanceStatuses()
+AR=;AzureDoctor.Models.RequestResult.set_InstanceStatuses(List)
+FRB>AzureDoctor.Models.HelperMethods.GetUsersActiveCloudServices()(
+ORKIAzureDoctor.Models.HelperMethods.GetUsersActiveCloudServices(Certificate)Rg:\semester 2\project\azuredoctor090513\azuredoctor\models\requestresultpartial.cs
+çRâ
+;R75AzureDoctor.Controllers.AzureDoctorController.Index()
+@R<8AzureDoctor.Controllers.AzureDoctorController.Overview()(
+GRC?AzureDoctor.Controllers.AzureDoctorController.GetHealthStatus()(
+T RPNAzureDoctor.Controllers.AzureDoctorController.UserHasActiveSubscription(Int32)
+^!RZXAzureDoctor.Controllers.AzureDoctorController.SubscriptionHasCloudServices(Subscription)
+E"RA?AzureDoctor.Controllers.AzureDoctorController.AddSubscription()
+Q#RMKAzureDoctor.Controllers.AzureDoctorController.AddSubscription(Subscription)
+K$RGEAzureDoctor.Controllers.AzureDoctorController.EditSubscription(Int32)
+R%RNLAzureDoctor.Controllers.AzureDoctorController.EditSubscription(Subscription)
+M&RIGAzureDoctor.Controllers.AzureDoctorController.DeleteSubscription(Int32)
+V'RRPAzureDoctor.Controllers.AzureDoctorController.DeleteSubscriptionConfirmed(Int32)
+E(RA?AzureDoctor.Controllers.AzureDoctorController.AddCloudService()
+Q)RMKAzureDoctor.Controllers.AzureDoctorController.AddCloudService(CloudService)
+K*RGEAzureDoctor.Controllers.AzureDoctorController.EditCloudService(Int32)
+R+RNLAzureDoctor.Controllers.AzureDoctorController.EditCloudService(CloudService)
+M,RIGAzureDoctor.Controllers.AzureDoctorController.DeleteCloudService(Int32)
+V-RRPAzureDoctor.Controllers.AzureDoctorController.DeleteCloudServiceConfirmed(Int32)
+D.R@>AzureDoctor.Controllers.AzureDoctorController.Dispose(Boolean)Xg:\semester 2\project\azuredoctor090513\azuredoctor\controllers\azuredoctorcontroller.cs
+ä/Rß
+>0R:8AzureDoctor.Tests.Controllers.HomeControllerTest.Index()
+@1R<:AzureDoctor.Tests.Controllers.HomeControllerTest.Contact()[g:\semester 2\project\azuredoctor090513\azuredoctor.tests\controllers\homecontrollertest.cs
+Æ2RÁ
+43R0.AzureDoctor.Controllers.HomeController.Index()
+64R20AzureDoctor.Controllers.HomeController.Contact()Qg:\semester 2\project\azuredoctor090513\azuredoctor\controllers\homecontroller.cs
+”5R
+46R0.AzureDoctor.Models.AzureDoctorEntities..ctor()Wg:\semester 2\project\azuredoctor090513\azuredoctor\models\azuredoctormodel.designer.cs
+¤7RŸ
+78R31AzureDoctor.Models.SubAndServiceViewModel..ctor()
+99R53AzureDoctor.Models.SubAndServiceViewModel.get_sub()
+E:RA?AzureDoctor.Models.SubAndServiceViewModel.set_sub(Subscription)
+C;R?=AzureDoctor.Models.SubAndServiceViewModel.get_cloudServices()
+G<RCAAzureDoctor.Models.SubAndServiceViewModel.set_cloudServices(List)Tg:\semester 2\project\azuredoctor090513\azuredoctor\models\subandserviceviewmodel.cs
+™=R”
+Û>RÖOAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.FakeDataToFakeDb()2¤
+WAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsViewModel()I
+Ê>
+	Ê>
+	Ê>
+	Ê>
+	Ê>$$Ê>	Ê>$$2¦
+YAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsFakeSubName()I
+Ê>
+	Ê>
+	Ê>
+	Ê>
+	Ê>$$Ê>	Ê>$$:Ê>:	Ê>:	Ê>:	Ê>:	Ê>$$
+¤?RŸWAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsViewModel()2Ž
+WAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsViewModel()3
+Ê>((
+	Ê>**
+	Ê>..Ê>((	Ê>44:Ê>((:	Ê>**:	Ê>..:	Ê>22:	Ê>44
+Æ@RÁDAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests..ctor()2v
+WAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsViewModel()
+Ê>Ê>Ê>2x
+YAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsFakeSubName()
+Ê>Ê>Ê>:Ê>
+lARh]AzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.<OverviewReturnsViewModel>b__0():Ê>,,
+€BRûYAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsFakeSubName()2Ç
+YAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsFakeSubName()j
+Ê>88
+	Ê>::
+	Ê>;;
+	Ê>>>
+	Ê>??
+	Ê>BB
+	Ê>;;
+	Ê>CCÊ>88	Ê>CC:Ê>88:	Ê>:::	Ê>;;:	Ê>>>:	Ê>??:	Ê>BB:	Ê>;;:	Ê>CC
+éCRä_AzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.<OverviewReturnsFakeSubName>b__0()2x
+YAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsFakeSubName()
+Ê>;;Ê>;;Ê>;;:Ê>;;gg:\semester 2\project\azuredoctor130513\azuredoctor.tests\controllers\azuredoctorcontrollerunittests.cs
+†	DR	
+…ER€;AzureDoctor.Tests.FakeAzureDoctorDb.AddSet'1(IQueryable{T})2Ž
+WAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsViewModel()3
+Ê>
+	Ê>
+	Ê>Ê>	Ê>2
+YAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsFakeSubName()3
+Ê>
+	Ê>
+	Ê>Ê>	Ê>:Ê>:	Ê>:	Ê>
+·FR²+AzureDoctor.Tests.FakeAzureDoctorDb..ctor()2¤
+WAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsViewModel()I
+Ê>
+	Ê>
+	Ê>
+	Ê>
+	Ê>Ê>	Ê>2¦
+YAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsFakeSubName()I
+Ê>
+	Ê>
+	Ê>
+	Ê>
+	Ê>Ê>	Ê>:Ê>:	Ê>:	Ê>:	Ê>:	Ê>
+æGRá-AzureDoctor.Tests.FakeAzureDoctorDb.Query'1()2
+YAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsFakeSubName()3
+Ê>
+	Ê>
+	Ê>Ê>	Ê>:Ê>:	Ê>:	Ê>Tg:\semester 2\project\azuredoctor130513\azuredoctor.tests\fakes\fakeazuredoctordb.cs
+ñHRì
+ÛIRÖ.AzureDoctor.Tests.TestData.get_Subscriptions()2¯
+WAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsViewModel()T
+Ê>
+	Ê>
+	Ê>
+	Ê>
+	Ê>
+	Ê>Ê>	Ê>2±
+YAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsFakeSubName()T
+Ê>
+	Ê>
+	Ê>
+	Ê>
+	Ê>
+	Ê>Ê>	Ê>:Ê>:	Ê>:	Ê>:	Ê>:	Ê>:	Ê>
+áJRÜ.AzureDoctor.Tests.TestData.get_CloudServices()2Ü
+WAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsViewModel()€
+Ê>
+	Ê>
+	Ê>
+	Ê>
+	Ê>  
+	Ê>!!
+	Ê>""
+	Ê>##
+	Ê>%%
+	Ê>&&	Ê>	Ê>&&	2Þ
+YAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsFakeSubName()€
+Ê>
+	Ê>
+	Ê>
+	Ê>
+	Ê>  
+	Ê>!!
+	Ê>""
+	Ê>##
+	Ê>%%
+	Ê>&&	Ê>	Ê>&&	:Ê>:	Ê>:	Ê>:	Ê>:	Ê>  :	Ê>!!:	Ê>"":	Ê>##:	Ê>%%:	Ê>&&	
+ÚKRÕ-AzureDoctor.Tests.TestData.get_Certificates()2¯
+WAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsViewModel()T
+Ê>,,
+	Ê>--
+	Ê>..
+	Ê>//
+	Ê>11
+	Ê>22Ê>,,	Ê>222±
+YAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsFakeSubName()T
+Ê>,,
+	Ê>--
+	Ê>..
+	Ê>//
+	Ê>11
+	Ê>22Ê>,,	Ê>22:Ê>,,:	Ê>--:	Ê>..:	Ê>//:	Ê>11:	Ê>22Kg:\semester 2\project\azuredoctor130513\azuredoctor.tests\fakes\testdata.cs
+¡LRœ
+®MR©CAzureDoctor.Controllers.AzureDoctorController..ctor(IAzureDoctorDb)2™
+WAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsViewModel()>
+Ê>
+	Ê>
+	Ê>
+	Ê>Ê>	Ê>2›
+YAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsFakeSubName()>
+Ê>
+	Ê>
+	Ê>
+	Ê>Ê>	Ê>:Ê>:	Ê>:	Ê>:	Ê>
+ßNRÚHAzureDoctor.Controllers.AzureDoctorController.getUserId(Nullable{Int32})2™
+WAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsViewModel()>
+Ê>''
+	Ê>((
+	Ê>))
+	Ê>**Ê>''	Ê>002¦
+YAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsFakeSubName()I
+Ê>''
+	Ê>((
+	Ê>))
+	Ê>**
+	Ê>00Ê>''	Ê>00:Ê>'':	Ê>((:	Ê>)):	Ê>**:	Ê>--:	Ê>..:	Ê>00
+¬OR§8AzureDoctor.Controllers.AzureDoctorController.Overview()2ƒ
+WAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsViewModel()(
+Ê>55
+	Ê>88Ê>55	Ê>MM2 
+YAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsFakeSubName()Â
+Ê>55
+	Ê>88
+	Ê>99
+	Ê>;;
+	Ê>==
+	Ê>>>
+	Ê>@@
+	Ê>BB
+	Ê>BB
+	Ê>BB	
+	Ê>CC
+
+	Ê>DD
+	Ê>EE
+	Ê>BB
+	Ê>GG
+	Ê>MMÊ>55	Ê>MM:Ê>55:	Ê>88:	Ê>99:	Ê>;;:	Ê>==:	Ê>>>:	Ê>@@:	Ê>BB:	Ê>BB:	Ê>BB	:	Ê>CC
+:	Ê>DD:	Ê>EE:	Ê>BB:	Ê>GG:	Ê>JJ:	Ê>KK:	Ê>MMXg:\semester 2\project\azuredoctor130513\azuredoctor\controllers\azuredoctorcontroller.cs
+æPRá
+’QR'AzureDoctor.Models.CloudService..ctor()2™
+WAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsViewModel()>
+Ê>
+	Ê>
+	Ê>
+	Ê>Ê>	Ê>2›
+YAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsFakeSubName()>
+Ê>
+	Ê>
+	Ê>
+	Ê>Ê>	Ê>:Ê>:	Ê>:	Ê>:	Ê>Jg:\semester 2\project\azuredoctor130513\azuredoctor\models\cloudservice.cs
+æRRá
+’SR'AzureDoctor.Models.Subscription..ctor()2™
+WAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsViewModel()>
+Ê>
+	Ê>
+	Ê>
+	Ê>Ê>	Ê>2›
+YAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsFakeSubName()>
+Ê>
+	Ê>
+	Ê>
+	Ê>Ê>	Ê>:Ê>:	Ê>:	Ê>:	Ê>Jg:\semester 2\project\azuredoctor130513\azuredoctor\models\subscription.cs
+ôTRï
+–UR‘1AzureDoctor.Models.SubAndServiceViewModel..ctor()2¦
+YAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsFakeSubName()I
+Ê>
+	Ê>
+	Ê>
+	Ê>
+	Ê>Ê>	Ê>:Ê>:	Ê>:	Ê>:	Ê>:	Ê>Tg:\semester 2\project\azuredoctor130513\azuredoctor\models\subandserviceviewmodel.csŒVR‡
+ãWRÞ
+0
+3_XR[G:\Semester 2\Project\AzureDoctor130513\AzureDoctor.Tests\Controllers\HomeControllerTest.cs6AzureDoctor.Tests.Controllers.HomeControllerTest.Index (B.YR*AzureDoctor.Tests\AzureDoctor.Tests.csprojRòh
+ZZRV
+1
+4X8AzureDoctor.Tests.Controllers.HomeControllerTest.Contact (BYRh
+Œ[R‡
+>
+?
+@
+E
+F
+I
+J
+K
+M
+N
+O
+Q
+Sk\RgG:\Semester 2\Project\AzureDoctor130513\AzureDoctor.Tests\Controllers\AzureDoctorControllerUnitTests.csUAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsViewModel 2USystem.NullReferenceException : Object reference not set to an instance of an object.:¦   at AzureDoctor.Controllers.AzureDoctorController.getUserId(Nullable`1 id) in g:\Semester 2\Project\AzureDoctor130513\AzureDoctor\Controllers\AzureDoctorController.cs:line 42
+   at AzureDoctor.Controllers.AzureDoctorController.Overview() in g:\Semester 2\Project\AzureDoctor130513\AzureDoctor\Controllers\AzureDoctorController.cs:line 56
+   at AzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsViewModel() in g:\Semester 2\Project\AzureDoctor130513\AzureDoctor.Tests\Controllers\AzureDoctorControllerUnitTests.cs:line 46BYRú]h
+³]R®
+>
+B
+@
+C
+G
+E
+F
+I
+J
+K
+M
+N
+O
+Q
+U
+S\WAzureDoctor.Tests.Controllers.AzureDoctorControllerUnitTests.OverviewReturnsFakeSubName (BYRòh

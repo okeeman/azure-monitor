@@ -1,0 +1,2 @@
+G:\Semester 2\Project\AzureDoctor - Copy (2)\WindowsAzure1\bin\Debug\ServiceConfiguration.cscfg
+G:\Semester 2\Project\AzureDoctor - Copy (2)\WindowsAzure1\bin\Debug\ServiceDefinition.csdef
