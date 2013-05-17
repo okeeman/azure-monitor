@@ -1,0 +1,38 @@
+G:\Semester 2\Project\ADworker030313\WorkerRoleUnitTests\bin\Debug\WorkerRoleUnitTests.dll.config
+G:\Semester 2\Project\ADworker030313\WorkerRoleUnitTests\bin\Debug\WorkerRoleUnitTests.dll
+G:\Semester 2\Project\ADworker030313\WorkerRoleUnitTests\bin\Debug\WorkerRoleUnitTests.pdb
+G:\Semester 2\Project\ADworker030313\WorkerRoleUnitTests\obj\Debug\WorkerRoleUnitTests.csprojResolveAssemblyReference.cache
+G:\Semester 2\Project\ADworker030313\WorkerRoleUnitTests\obj\Debug\WorkerRoleUnitTests.dll
+G:\Semester 2\Project\ADworker030313\WorkerRoleUnitTests\obj\Debug\WorkerRoleUnitTests.pdb
+G:\Semester 2\Project\ADworker030313\WorkerRoleUnitTests\bin\Debug\WorkerRole1.dll
+G:\Semester 2\Project\ADworker030313\WorkerRoleUnitTests\bin\Debug\WorkerRole1.pdb
+G:\Semester 2\Project\ADworker030313\WorkerRoleUnitTests\bin\Debug\WorkerRoleUnitTests.dll.CodeAnalysisLog.xml
+G:\Semester 2\Project\ADworker030313\WorkerRoleUnitTests\bin\Debug\WorkerRoleUnitTests.dll.lastcodeanalysissucceeded
+G:\Semester 2\Project\ADworker140413\WorkerRoleUnitTests\bin\Debug\WorkerRoleUnitTests.dll.config
+G:\Semester 2\Project\ADworker140413\WorkerRoleUnitTests\bin\Debug\WorkerRoleUnitTests.dll
+G:\Semester 2\Project\ADworker140413\WorkerRoleUnitTests\bin\Debug\WorkerRoleUnitTests.pdb
+G:\Semester 2\Project\ADworker140413\WorkerRoleUnitTests\bin\Debug\WorkerRole1.dll
+G:\Semester 2\Project\ADworker140413\WorkerRoleUnitTests\bin\Debug\WorkerRole1.pdb
+G:\Semester 2\Project\ADworker140413\WorkerRoleUnitTests\obj\Debug\WorkerRoleUnitTests.csprojResolveAssemblyReference.cache
+G:\Semester 2\Project\ADworker140413\WorkerRoleUnitTests\obj\Debug\WorkerRoleUnitTests.dll
+G:\Semester 2\Project\ADworker140413\WorkerRoleUnitTests\obj\Debug\WorkerRoleUnitTests.pdb
+G:\Semester 2\Project\ADworker 120513\WorkerRoleUnitTests\bin\Debug\WorkerRoleUnitTests.dll.config
+G:\Semester 2\Project\ADworker 120513\WorkerRoleUnitTests\bin\Debug\WorkerRoleUnitTests.dll
+G:\Semester 2\Project\ADworker 120513\WorkerRoleUnitTests\bin\Debug\WorkerRoleUnitTests.pdb
+G:\Semester 2\Project\ADworker 120513\WorkerRoleUnitTests\bin\Debug\WorkerRole1.dll
+G:\Semester 2\Project\ADworker 120513\WorkerRoleUnitTests\bin\Debug\EntityFramework.dll
+G:\Semester 2\Project\ADworker 120513\WorkerRoleUnitTests\bin\Debug\WorkerRole1.pdb
+G:\Semester 2\Project\ADworker 120513\WorkerRoleUnitTests\bin\Debug\EntityFramework.xml
+G:\Semester 2\Project\ADworker 120513\WorkerRoleUnitTests\obj\Debug\WorkerRoleUnitTests.csprojResolveAssemblyReference.cache
+G:\Semester 2\Project\ADworker 120513\WorkerRoleUnitTests\obj\Debug\WorkerRoleUnitTests.dll
+G:\Semester 2\Project\ADworker 120513\WorkerRoleUnitTests\obj\Debug\WorkerRoleUnitTests.pdb
+G:\Semester 2\Project\ADworker 150513\WorkerRoleUnitTests\bin\Debug\WorkerRoleUnitTests.dll.config
+G:\Semester 2\Project\ADworker 150513\WorkerRoleUnitTests\bin\Debug\WorkerRoleUnitTests.dll
+G:\Semester 2\Project\ADworker 150513\WorkerRoleUnitTests\bin\Debug\WorkerRoleUnitTests.pdb
+G:\Semester 2\Project\ADworker 150513\WorkerRoleUnitTests\bin\Debug\WorkerRole1.dll
+G:\Semester 2\Project\ADworker 150513\WorkerRoleUnitTests\bin\Debug\EntityFramework.dll
+G:\Semester 2\Project\ADworker 150513\WorkerRoleUnitTests\bin\Debug\WorkerRole1.pdb
+G:\Semester 2\Project\ADworker 150513\WorkerRoleUnitTests\bin\Debug\EntityFramework.xml
+G:\Semester 2\Project\ADworker 150513\WorkerRoleUnitTests\obj\Debug\WorkerRoleUnitTests.csprojResolveAssemblyReference.cache
+G:\Semester 2\Project\ADworker 150513\WorkerRoleUnitTests\obj\Debug\WorkerRoleUnitTests.dll
+G:\Semester 2\Project\ADworker 150513\WorkerRoleUnitTests\obj\Debug\WorkerRoleUnitTests.pdb

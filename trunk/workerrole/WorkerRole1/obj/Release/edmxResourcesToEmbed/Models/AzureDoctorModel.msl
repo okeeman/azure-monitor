@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AzureDoctorModelStoreContainer" CdmEntityContainer="AzureDocEntities">
+    <EntitySetMapping Name="Certificates">
+      <EntityTypeMapping TypeName="AzureDoctorModel.Certificate">
+        <MappingFragment StoreEntitySet="Certificate">
+          <ScalarProperty Name="CertRecordID" ColumnName="CertRecordID" />
+          <ScalarProperty Name="CertificateName" ColumnName="CertificateName" />
+          <ScalarProperty Name="Thumbprint" ColumnName="Thumbprint" />
+          <ScalarProperty Name="ExpiryDate" ColumnName="ExpiryDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CloudServices">
+      <EntityTypeMapping TypeName="AzureDoctorModel.CloudService">
+        <MappingFragment StoreEntitySet="CloudService">
+          <ScalarProperty Name="CloudServiceID" ColumnName="CloudServiceID" />
+          <ScalarProperty Name="SubscriptionRecordID" ColumnName="SubscriptionRecordID" />
+          <ScalarProperty Name="CloudServiceName" ColumnName="CloudServiceName" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="InstanceStatus">
+      <EntityTypeMapping TypeName="AzureDoctorModel.InstanceStatu">
+        <MappingFragment StoreEntitySet="InstanceStatus">
+          <ScalarProperty Name="InstanceStatusID" ColumnName="InstanceStatusID" />
+          <ScalarProperty Name="RequestID" ColumnName="RequestID" />
+          <ScalarProperty Name="InstanceStatus" ColumnName="InstanceStatus" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RequestResults">
+      <EntityTypeMapping TypeName="AzureDoctorModel.RequestResult">
+        <MappingFragment StoreEntitySet="RequestResult">
+          <ScalarProperty Name="RequestID" ColumnName="RequestID" />
+          <ScalarProperty Name="CloudServiceID" ColumnName="CloudServiceID" />
+          <ScalarProperty Name="AllInstancesHealthy" ColumnName="AllInstancesHealthy" />
+          <ScalarProperty Name="DeploymentSlot" ColumnName="DeploymentSlot" />
+          <ScalarProperty Name="InstanceSize" ColumnName="InstanceSize" />
+          <ScalarProperty Name="InstanceCount" ColumnName="InstanceCount" />
+          <ScalarProperty Name="VIPAddress" ColumnName="VIPAddress" />
+          <ScalarProperty Name="Location" ColumnName="Location" />
+          <ScalarProperty Name="HostedServiceStatus" ColumnName="HostedServiceStatus" />
+          <ScalarProperty Name="DeploymentStatus" ColumnName="DeploymentStatus" />
+          <ScalarProperty Name="VMStatus" ColumnName="VMStatus" />
+          <ScalarProperty Name="DateTime" ColumnName="DateTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Subscriptions">
+      <EntityTypeMapping TypeName="AzureDoctorModel.Subscription">
+        <MappingFragment StoreEntitySet="Subscription">
+          <ScalarProperty Name="SubscriptionRecordID" ColumnName="SubscriptionRecordID" />
+          <ScalarProperty Name="SubscriptionName" ColumnName="SubscriptionName" />
+          <ScalarProperty Name="AzureSubscriptionID" ColumnName="AzureSubscriptionID" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

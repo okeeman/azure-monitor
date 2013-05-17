@@ -1,0 +1,33 @@
+G:\Semester 2\Project\ADworker\ADworker\bin\Debug\ServiceConfiguration.cscfg
+G:\Semester 2\Project\ADworker\ADworker\bin\Debug\ServiceDefinition.csdef
+G:\Semester 2\Project\ADworker\ADworker\obj\Debug\WorkerRole1\EntityFramework.dll
+G:\Semester 2\Project\ADworker\ADworker\obj\Debug\WorkerRole1\Microsoft.WindowsAzure.Configuration.dll
+G:\Semester 2\Project\ADworker\ADworker\obj\Debug\WorkerRole1\Microsoft.WindowsAzure.Diagnostics.dll
+G:\Semester 2\Project\ADworker\ADworker\obj\Debug\WorkerRole1\Microsoft.WindowsAzure.StorageClient.dll
+G:\Semester 2\Project\ADworker\ADworker\obj\Debug\WorkerRole1\WorkerRole1.dll
+G:\Semester 2\Project\ADworker\ADworker\obj\Debug\WorkerRole1\WorkerRole1.dll.config
+G:\Semester 2\Project\ADworker\ADworker\obj\Debug\WorkerRole1\WorkerRole1.pdb
+G:\Semester 2\Project\ADworker030313\ADworker\bin\Debug\ServiceConfiguration.cscfg
+G:\Semester 2\Project\ADworker030313\ADworker\bin\Debug\ServiceDefinition.csdef
+G:\Semester 2\Project\ADworker140413\ADworker\bin\Debug\ServiceConfiguration.cscfg
+G:\Semester 2\Project\ADworker140413\ADworker\bin\Debug\ServiceDefinition.csdef
+G:\Semester 2\Project\ADworker140413\ADworker\obj\Debug\WorkerRole1\EntityFramework.dll
+G:\Semester 2\Project\ADworker140413\ADworker\obj\Debug\WorkerRole1\Microsoft.WindowsAzure.Configuration.dll
+G:\Semester 2\Project\ADworker140413\ADworker\obj\Debug\WorkerRole1\Microsoft.WindowsAzure.Diagnostics.dll
+G:\Semester 2\Project\ADworker140413\ADworker\obj\Debug\WorkerRole1\Microsoft.WindowsAzure.StorageClient.dll
+G:\Semester 2\Project\ADworker140413\ADworker\obj\Debug\WorkerRole1\WorkerRole1.dll
+G:\Semester 2\Project\ADworker140413\ADworker\obj\Debug\WorkerRole1\WorkerRole1.dll.config
+G:\Semester 2\Project\ADworker140413\ADworker\obj\Debug\WorkerRole1\WorkerRole1.pdb
+G:\Semester 2\Project\ADworker 120513\ADworker\bin\Debug\ServiceConfiguration.cscfg
+G:\Semester 2\Project\ADworker 120513\ADworker\bin\Debug\ServiceDefinition.csdef
+C:\Users\Owen\Documents\College backups\Project backups\Backup 130513\ADworker 120513\ADworker\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\Owen\Documents\College backups\Project backups\Backup 130513\ADworker 120513\ADworker\bin\Debug\ServiceDefinition.csdef
+C:\Users\Owen\Documents\College backups\Project backups\Backup 130513\ADworker 120513\ADworker\obj\Debug\WorkerRole1\EntityFramework.dll
+C:\Users\Owen\Documents\College backups\Project backups\Backup 130513\ADworker 120513\ADworker\obj\Debug\WorkerRole1\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Owen\Documents\College backups\Project backups\Backup 130513\ADworker 120513\ADworker\obj\Debug\WorkerRole1\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Owen\Documents\College backups\Project backups\Backup 130513\ADworker 120513\ADworker\obj\Debug\WorkerRole1\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Owen\Documents\College backups\Project backups\Backup 130513\ADworker 120513\ADworker\obj\Debug\WorkerRole1\WorkerRole1.dll
+C:\Users\Owen\Documents\College backups\Project backups\Backup 130513\ADworker 120513\ADworker\obj\Debug\WorkerRole1\WorkerRole1.dll.config
+C:\Users\Owen\Documents\College backups\Project backups\Backup 130513\ADworker 120513\ADworker\obj\Debug\WorkerRole1\WorkerRole1.pdb
+G:\Semester 2\Project\ADworker 150513\ADworker\bin\Debug\ServiceConfiguration.cscfg
+G:\Semester 2\Project\ADworker 150513\ADworker\bin\Debug\ServiceDefinition.csdef
