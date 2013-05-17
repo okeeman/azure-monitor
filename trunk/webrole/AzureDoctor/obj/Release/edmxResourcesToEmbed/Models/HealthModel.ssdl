@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="azuredoctorModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="azuredoctorModelStoreContainer">
+    <EntitySet Name="AzureDoctorUser" EntityType="azuredoctorModel.Store.AzureDoctorUser" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CloudService" EntityType="azuredoctorModel.Store.CloudService" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="HealthStatus" EntityType="azuredoctorModel.Store.HealthStatus" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="CloudServiceFK1" Association="azuredoctorModel.Store.CloudServiceFK1">
+      <End Role="AzureDoctorUser" EntitySet="AzureDoctorUser" />
+      <End Role="CloudService" EntitySet="CloudService" />
+    </AssociationSet>
+    <AssociationSet Name="HealthStatusFK" Association="azuredoctorModel.Store.HealthStatusFK">
+      <End Role="CloudService" EntitySet="CloudService" />
+      <End Role="HealthStatus" EntitySet="HealthStatus" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="AzureDoctorUser">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="LastName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="255" />
+    <Property Name="Phone" Type="varchar" MaxLength="50" />
+    <Property Name="Username" Type="nvarchar" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" MaxLength="64" />
+  </EntityType>
+  <EntityType Name="CloudService">
+    <Key>
+      <PropertyRef Name="CloudServiceID" />
+    </Key>
+    <Property Name="CloudServiceID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="int" Nullable="false" />
+    <Property Name="SubscriptionID" Type="nvarchar" MaxLength="50" />
+    <Property Name="ServiceName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Thumbprint" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="HealthStatus">
+    <Key>
+      <PropertyRef Name="StatusID" />
+    </Key>
+    <Property Name="StatusID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CloudServiceID" Type="int" Nullable="false" />
+    <Property Name="Status" Type="nvarchar" MaxLength="50" />
+    <Property Name="Timestamp" Type="datetime" />
+  </EntityType>
+  <Association Name="CloudServiceFK1">
+    <End Role="AzureDoctorUser" Type="azuredoctorModel.Store.AzureDoctorUser" Multiplicity="1" />
+    <End Role="CloudService" Type="azuredoctorModel.Store.CloudService" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AzureDoctorUser">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="CloudService">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="HealthStatusFK">
+    <End Role="CloudService" Type="azuredoctorModel.Store.CloudService" Multiplicity="1" />
+    <End Role="HealthStatus" Type="azuredoctorModel.Store.HealthStatus" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CloudService">
+        <PropertyRef Name="CloudServiceID" />
+      </Principal>
+      <Dependent Role="HealthStatus">
+        <PropertyRef Name="CloudServiceID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

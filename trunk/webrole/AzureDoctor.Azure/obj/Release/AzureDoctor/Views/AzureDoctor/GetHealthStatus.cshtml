@@ -1,0 +1,37 @@
+﻿<!-- ------------------------------------------------------------------------------------------------------------
+     Owen Sweeney 2013
+     ------------------------------------------------------------------------------------------------------------
+     This view has an Ajax link which is styled using CSS to look like a button. It displays a loading spinner
+     while it is awaiting the results from Windows Azure. A custom script, refresh.js, 'clicks' on the link
+     every 30 seconds. The update area div receives data from the ResultPartial partial view.
+     ------------------------------------------------------------------------------------------------------------
+-->
+@model IEnumerable<AzureDoctor.Models.CloudService> 
+
+@{
+    ViewBag.Title = "Health Status";
+}
+
+<div class="ajaxButtonDiv">
+    @* Overload 9 of 12: linkText, actionName, controllerName, routeValues, ajaxOptions, htmlAttributes. *@
+    @Ajax.ActionLink("Check Health",
+                     "GetHealthStatus",
+                     "AzureDoctor",
+                     // The route value is not used. This overload is used to take advantage of the Ajax options and HTML attributes.
+                     new {id = "1"},         
+                     new AjaxOptions
+                     {
+                         HttpMethod = "POST",
+                         InsertionMode = InsertionMode.Replace,
+                         UpdateTargetId = "updateArea",
+                         OnSuccess = "displayStatus()"
+                     },
+                     new { id = "ajaxButton", onclick = "displayLoadingImage()" })
+</div>
+
+<div id="updateArea">
+  @Html.Partial("ResultPartial")
+</div>
+
+@Scripts.Render("~/bundles/ajax")
+    

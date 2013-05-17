@@ -1,0 +1,109 @@
+﻿<!-- ------------------------------------------------------------------------------------------------------------
+     Owen Sweeney 2013
+     ------------------------------------------------------------------------------------------------------------
+     This partial view receives data from the Ajax requests and inserts it into part of the GetHealthStatus view.
+     It has a dynamic results display, i.e., it can cope with varying numbers of cloud services and varying
+     numbers of intances per cloud service. A data dash attribute is used in conjunction with Razor to transfer 
+     server-side data to the client. This attribute is passed to the custom JavaScript file displaystatus.js. 
+     This script determines what result message and heart icon are displayed to the user.
+     ------------------------------------------------------------------------------------------------------------
+-->
+@if (ViewBag.ResultsViewModelCollection != null)
+{ 
+<div id="resultDiv">   
+</div> 
+    
+<table>
+    <tr>
+        <th class="highlightText">Health results</th>
+    </tr>
+
+    <tr>
+        <th>Cloud Service Name</th>  <th>&nbsp;Instance Statuses</th>
+    </tr>  
+        
+    @foreach (var result in ViewBag.ResultsViewModelCollection)
+    {
+        <tr>
+            <td>@result.CloudServiceName</td>  @foreach (var status in result.InstanceStatuses) {<td>&nbsp;@status</td>}              
+        </tr>
+    }
+
+    <tr>
+        <th>Last update</th>    
+    </tr>
+
+    <tr>
+        <td>@ViewBag.ResultsViewModelCollection[0].DateTime</td>
+    </tr>
+
+    <tr>
+        <th>Location</th>    
+    </tr>
+
+    <tr>
+        <td>@ViewBag.ResultsViewModelCollection[0].Location</td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <th class="highlightText">Cloud Service Details</th>
+    </tr>
+
+    @foreach (var result in ViewBag.ResultsViewModelCollection)
+    {   
+        <tr>
+            <th>Cloud Service Name</th>        
+        </tr>
+        
+        <tr>
+            <td>@result.CloudServiceName</td>        
+        </tr>
+        
+        <tr>
+            <th>Instance Count</th>
+        </tr>
+        
+        <tr>
+            <td>@result.InstanceCount</td>
+        </tr>
+        
+        <tr>
+            <th>Instance size</th>
+        </tr>
+        
+        <tr>
+            <td>@result.InstanceSize</td>
+        </tr>
+        
+        <tr>
+            <th>Deployment slot</th>
+        </tr>
+        
+        <tr>
+            <td>@result.DeploymentSlot</td>
+        </tr>
+        
+        <tr>
+            <th>Hosted Service status</th>
+        </tr>
+        
+        <tr>
+            <td>@result.HostedServiceStatus</td>
+        </tr>
+        
+        <tr>
+            <th>VIP address</th>
+        </tr>
+        
+        <tr>
+            <td>@result.VIPAddress</td>
+        </tr>
+    }
+
+</table>
+   
+<input type="hidden" id="allinstanceshealthyinput" data-allinstanceshealthy="@ViewBag.OverallAllInstancesHealthy" />
+}
+

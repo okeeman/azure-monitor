@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>@ViewBag.Title - Azure Doctor</title>
+        <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <meta name="viewport" content="width=device-width" />
+
+        @Styles.Render("~/Content/themes/base/css")
+        @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/jqueryui")
+        @Scripts.Render("~/bundles/jqueryval")
+        @RenderSection("scripts", required: false)
+    </head>
+
+    <body>
+        <header>
+            <div class="content-wrapper">
+
+                <div class="logo site-title">
+                    <a href="/Home/Index" ><img src="~/Images/favicon32.jpg" alt="Logo image of the rod of Asclepius and a cloud" height="32" width="32"></a>
+                    @Html.ActionLink("Azure Doctor", "Index", "Home")
+                </div>
+
+                <div class="float-right">
+                    <section id="login">
+                        @Html.Partial("_LoginPartial")
+                    </section>
+                </div> 
+                 
+                    <nav>
+                        <ul id="menu">
+                            <li>@Html.ActionLink("Azure Doctor Home", "Index", "Home")</li>
+                            @if(User.Identity.IsAuthenticated)
+                            { 
+                            <li>@Html.ActionLink("Check health", "GetHealthStatus", "AzureDoctor")</li> 
+                            <li>@Html.ActionLink("Overview", "Overview", "AzureDoctor")</li> 
+                            }
+                            <li>@Html.ActionLink("Instructions", "Instructions", "Home")</li>
+                            <li>@Html.ActionLink("Contact Azure Doctor", "Contact", "Home")</li>
+                        </ul>
+                    </nav>
+            </div>
+        </header>
+
+        <div id="body">
+             @RenderSection("featured", required: false)
+            <section class="content-wrapper main-content clear-fix">
+                 <div id="hide-javascript-not-present" class="validation-summary-errors">
+                       JavaScript is not present. This site works best with JavaScript enabled.
+                 </div>
+                 @RenderBody()
+            </section>
+        </div>
+
+        <footer>
+            <div class="content-wrapper">
+                <div id="copyright" class="center">
+                    <p>&copy; @DateTime.Now.Year - Azure Doctor</p>
+                </div>
+            </div>
+        </footer>
+        @Scripts.Render("~/bundles/jswarning")
+ </body>      
+</html>
+
+

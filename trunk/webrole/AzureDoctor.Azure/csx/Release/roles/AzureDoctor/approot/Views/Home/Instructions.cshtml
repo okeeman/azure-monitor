@@ -1,0 +1,77 @@
+﻿@{
+    ViewBag.Title = "Instructions";
+}
+
+<hgroup class="title">
+    <h1>@ViewBag.Title</h1>
+</hgroup>
+
+<div id="accordion">
+    <h2>Register for an Azure Doctor account</h2>
+    <div>
+        <ul class="listLogo">
+            <li><p>Use the Register link in the Azure Doctor application</p></li>
+            <li><p>Enter your email address as your user name</p></li>
+            <li><p>Enter a password</p></li>
+            <li><p>For your security and privacy, passwords are encrypted</p></li>
+            <img src="../../Images/register.png" />
+            <li><p>Once you have registered, the Azure Doctor administrator will provide you with a certificate via email</p></li>
+            <li><p>This will be a file of type .cer</p></li>
+        </ul>
+    </div>
+    <h2>Add this certificate as a management certificate in your Windows Azure account</h2>
+    <div>
+        <ul class="listLogo">
+            <li><p>Log into your Windows Azure account through the online portal</p></li>
+            <li><p><a href="https://manage.windowsazure.com/">https://manage.windowsazure.com/</a></p></li>
+            <li><p>Select Settings from the menu on the left hand side</p></li>
+            <li><p>In Settings, select Upload</p></li>
+            <li><p>This will bring up a screen which says "Upload a management certificate"</p></li>
+            <img src="../../Images/certupload.png" />
+            <li>Upload the certificate provided by the Azure Doctor administrator</p></li>
+        </ul>
+    </div>
+    <h2>Add your Windows Azure subscription details to your Azure Doctor account</h2>
+    <div>
+        <ul class="listLogo">
+            <li><p>You will need to get your Windows Azure subscription ID</p></li>
+             <li><p>This can be obtained from the Windows Azure portal</p></li>
+            <li><p>Select Settings from the menu on the left hand side</p></li>
+            <li><p>Your Subscription ID is displayed on this page</p></li>
+            <img src="../../Images/subid.png" />
+        </ul>
+    </div>
+    <h2>Add your Windows Azure Cloud Service details to your Azure Doctor account</h2>
+    <div>
+        <ul class="listLogo">
+            <li><p>You must have a subscription set up before adding cloud services</p></li>
+            <li><p>You will need to get your Windows Azure cloud service names</p></li>
+            <li><p>These can be obtained from the Windows Azure portal</p></li>
+            <li><p>Select Cloud Services from the menu on the left hand side</p></li>
+            <li><p>Your Cloud Service names are displayed on this page</p></li>
+            <img src="../../Images/csname.png" />
+        </ul>
+    </div>
+    <h2>Azure Doctor will now monitor your cloud services round-the-clock</h2>
+    <div>
+        <ul class="listLogo">
+            <li><p>If any of your cloud service instances experience a problem you will be notified by SMS</p></li>
+            <li><p>To view the current status of your cloud services log in to your Azure Doctor account</p></li>
+            <li><p>A green heart indicates that all of your cloud service instances are healthy</p></li>
+            <img src="../../Images/greensample.png" />
+            <li><p>A red heart indicates that one or more of your cloud service instances is unhealthy</p></li>
+        </ul>
+    </div>
+    <h2>Add, edit or remove your subscription and cloud services details</h2>
+    <div>
+        <ul class="listLogo">
+            <li><p>The Overview page allows you to modify your Azure Doctor account details</p></li>
+            <li><p>If you stop your cloud services in Window Azure you should remove them from Azure Doctor also</p></li>
+            <img src="../../Images/overview.png" />
+        </ul>
+    </div>
+</div>
+
+@Scripts.Render("~/bundles/accordion")
+
+

@@ -1,0 +1,76 @@
+﻿@model AzureDoctor.Models.SubAndServiceViewModel
+
+@{
+    ViewBag.Title = "Overview";
+}
+
+<hgroup class="title">
+    <h1>@ViewBag.Title</h1>
+</hgroup>
+    
+@if(Model != null)
+{
+    <table class="overview">
+        <tr>
+            <th class="highlightText">Subscription</th> 
+        </tr>
+
+        <tr>
+            <th>Name</th>   
+        </tr>
+
+        <tr>
+            <td>@Model.Sub.SubscriptionName</td>
+        </tr>
+
+        <tr>
+            <th>Windows Azure Subscription ID</th>
+        </tr>
+
+        <tr>
+            <td>@Model.Sub.AzureSubscriptionID</td>
+        </tr>
+
+        <tr>
+            <th>Phone number</th>
+        </tr>
+
+        <tr>
+            <td>@Model.Sub.PhoneNumber</td>
+        </tr>
+
+        <tr>
+            <td>@Html.ActionLink("Edit Subscription", "EditSubscription", new { id = Model.Sub.SubscriptionRecordID }) | @Html.ActionLink("Delete Subscription", "DeleteSubscription", new { id = Model.Sub.SubscriptionRecordID })</td>
+        </tr>
+
+        <tr>
+            <th class="highlightText"><br>Cloud Services</th>
+        </tr>
+
+        @foreach (var cloudService in Model.CloudServices) {<tr><td>@cloudService.CloudServiceName @Html.ActionLink("Edit Cloud Service", "EditCloudService", new { id = cloudService.CloudServiceID }) | @Html.ActionLink("Delete Cloud Service", "DeleteCloudService", new { id = cloudService.CloudServiceID })</td></tr>}
+    </table>
+}
+
+<div class="center">
+    <div class="message-error">
+        @if(ViewBag.ErrorMessage != null){@ViewBag.ErrorMessage}
+    </div> 
+    
+    @if (Model == null && ViewBag.ErrorMessage == null)
+    {
+        <div>
+            Add your Windows Azure subscription details
+            <br>@Html.ActionLink("Add Subscription", "AddSubscription", "AzureDoctor")
+        </div>
+    }
+                                                     
+     @if(Model != null)
+     {
+        <div>
+            @Html.ActionLink("Add Cloud Service", "AddCloudService", "AzureDoctor")
+        </div>
+     }
+</div>
+
+
+

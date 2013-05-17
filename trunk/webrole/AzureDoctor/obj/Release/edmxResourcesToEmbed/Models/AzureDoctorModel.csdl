@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AzureDoctorModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="azuredoctorEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Certificates" EntityType="AzureDoctorModel.Certificate" />
+    <EntitySet Name="CloudServices" EntityType="AzureDoctorModel.CloudService" />
+    <EntitySet Name="InstanceStatus" EntityType="AzureDoctorModel.InstanceStatu" />
+    <EntitySet Name="RequestResults" EntityType="AzureDoctorModel.RequestResult" />
+    <EntitySet Name="Subscriptions" EntityType="AzureDoctorModel.Subscription" />
+    <AssociationSet Name="CloudServiceFK" Association="AzureDoctorModel.CloudServiceFK">
+      <End Role="Subscription" EntitySet="Subscriptions" />
+      <End Role="CloudService" EntitySet="CloudServices" />
+    </AssociationSet>
+    <AssociationSet Name="RequestResultFK" Association="AzureDoctorModel.RequestResultFK">
+      <End Role="CloudService" EntitySet="CloudServices" />
+      <End Role="RequestResult" EntitySet="RequestResults" />
+    </AssociationSet>
+    <AssociationSet Name="InstanceStatusFK" Association="AzureDoctorModel.InstanceStatusFK">
+      <End Role="RequestResult" EntitySet="RequestResults" />
+      <End Role="InstanceStatus" EntitySet="InstanceStatus" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Certificate">
+    <Key>
+      <PropertyRef Name="CertRecordID" />
+    </Key>
+    <Property Name="CertRecordID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CertificateName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Thumbprint" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ExpiryDate" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="CloudService">
+    <Key>
+      <PropertyRef Name="CloudServiceID" />
+    </Key>
+    <Property Name="CloudServiceID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SubscriptionRecordID" Type="Int32" Nullable="false" />
+    <Property Name="CloudServiceName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Status" Type="String" MaxLength="8" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Subscription" Relationship="AzureDoctorModel.CloudServiceFK" FromRole="CloudService" ToRole="Subscription" />
+    <NavigationProperty Name="RequestResults" Relationship="AzureDoctorModel.RequestResultFK" FromRole="CloudService" ToRole="RequestResult" />
+  </EntityType>
+  <EntityType Name="InstanceStatu">
+    <Key>
+      <PropertyRef Name="InstanceStatusID" />
+    </Key>
+    <Property Name="InstanceStatusID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RequestID" Type="Int32" Nullable="false" />
+    <Property Name="InstanceStatus" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="RequestResult" Relationship="AzureDoctorModel.InstanceStatusFK" FromRole="InstanceStatus" ToRole="RequestResult" />
+  </EntityType>
+  <EntityType Name="RequestResult">
+    <Key>
+      <PropertyRef Name="RequestID" />
+    </Key>
+    <Property Name="RequestID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CloudServiceID" Type="Int32" Nullable="false" />
+    <Property Name="AllInstancesHealthy" Type="Boolean" />
+    <Property Name="DeploymentSlot" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="InstanceSize" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="InstanceCount" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="VIPAddress" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Location" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="HostedServiceStatus" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="DeploymentStatus" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="VMStatus" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="DateTime" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="CloudService" Relationship="AzureDoctorModel.RequestResultFK" FromRole="RequestResult" ToRole="CloudService" />
+    <NavigationProperty Name="InstanceStatus" Relationship="AzureDoctorModel.InstanceStatusFK" FromRole="RequestResult" ToRole="InstanceStatus" />
+  </EntityType>
+  <EntityType Name="Subscription">
+    <Key>
+      <PropertyRef Name="SubscriptionRecordID" />
+    </Key>
+    <Property Name="SubscriptionRecordID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SubscriptionName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="AzureSubscriptionID" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="PhoneNumber" Type="String" MaxLength="12" Unicode="true" FixedLength="false" />
+    <Property Name="Status" Type="String" MaxLength="8" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="CloudServices" Relationship="AzureDoctorModel.CloudServiceFK" FromRole="Subscription" ToRole="CloudService" />
+  </EntityType>
+  <Association Name="CloudServiceFK">
+    <End Role="Subscription" Type="AzureDoctorModel.Subscription" Multiplicity="1" />
+    <End Role="CloudService" Type="AzureDoctorModel.CloudService" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Subscription">
+        <PropertyRef Name="SubscriptionRecordID" />
+      </Principal>
+      <Dependent Role="CloudService">
+        <PropertyRef Name="SubscriptionRecordID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="RequestResultFK">
+    <End Role="CloudService" Type="AzureDoctorModel.CloudService" Multiplicity="1" />
+    <End Role="RequestResult" Type="AzureDoctorModel.RequestResult" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CloudService">
+        <PropertyRef Name="CloudServiceID" />
+      </Principal>
+      <Dependent Role="RequestResult">
+        <PropertyRef Name="CloudServiceID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="InstanceStatusFK">
+    <End Role="RequestResult" Type="AzureDoctorModel.RequestResult" Multiplicity="1" />
+    <End Role="InstanceStatus" Type="AzureDoctorModel.InstanceStatu" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RequestResult">
+        <PropertyRef Name="RequestID" />
+      </Principal>
+      <Dependent Role="InstanceStatus">
+        <PropertyRef Name="RequestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
