@@ -4,7 +4,7 @@
 // * The Worker Role makes health requests for all cloud services with a status of 
 // Active. A subscription may have many cloud services. Each cloud service may have 
 // many instances. If any instance is not in ReadyRole, i.e., ready to accept 
-// requests, then an error messaghe SMS is sent to the user's phone. 
+// requests, then an error message SMS is sent to the user's phone. 
 // * If the Run method throws an exception the exception message is sent to the Azure
 // Doctor administrator. 
 // * There are a number of Trace.WriteLines included. These prove useful
