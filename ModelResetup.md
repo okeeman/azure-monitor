@@ -1,0 +1,11 @@
+Due to having to move the database between Windows Azure accounts it became necessary to redo the Entity Framework connections and the Domain Service class. This wiki is to be used as a guide to resetting up these connections.
+
+0. If the program is not working locally try running the basic functionality in a console app. If it works in a console then there isn't an issue with the certificate. The problem is probably with the EF connection.
+
+1. Delete old EF and DS
+
+2. Check NuGet for package updates: Project > Manage NuGet packages > Updates. N.B. This step caused the UI to break. See jQueryUpdate wiki.
+
+3. Create new EF: Right-click on Model folder > Add new item > Data > Add new ADO.net Entity Data Model
+
+4. New Domain Service class: Right-click on Model folder > Add new item > Web > Domain Service Class

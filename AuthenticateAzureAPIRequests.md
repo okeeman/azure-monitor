@@ -1,0 +1,6 @@
+## Authenticating Windows Azure Service Management API requests from an Azure role ##
+
+All Service Management API requests must be authenticated by a certificate. The certificate must be in the certificate store of the machine making the request. This certificate is used to sign the request. For this project the request is being made by a service which is hosted in Windows Azure. This means that the certificate must be installed in the certificate store of the Virtual Machine(s) which the role is running on. There is a sequence which must be followed in order to correctly install the certificate:
+  * Create or obtain a certificate (.cer format).
+  * Upload the private key (.pfx) to the Azure role. This must be done before the service is deployed.
+  * Attach the certificate thumbprint and store location to the Visual Studio project and upload the package and configuration to Azure. The certificate will be placed in the same store location in the Azure VM when the package is uploaded.

@@ -1,0 +1,51 @@
+# Owen's Higher Diploma in Computing project #
+## Windows Azure Cloud Service monitor ##
+## Second iteration ##
+This is a health monitor for a Windows Azure Cloud Service. It provides the user with a browser-based GUI which they can use to see the health status of their cloud service. It also provides round-the-clock monitoring that sends SMS texts to the user's phone if their cloud service encounters an issue. All of the components of the monitor are hosted on Windows Azure, i.e. web role, worker role and database.
+<br><br>The monitor has a 3-tier architecture:<br>
+<br>(i) Presentation layer<br>
+<br>(ii) Application layer<br>
+<br>(iii) Database layer<br>
+<br><br>There are three major components of the monitor:<br>
+<br>(i) Web role<br>
+<br>(ii) Worker role<br>
+<br>(iii) SQL Azure database<br>
+<br><br><b>Web role</b>
+<br>The web role functions by sending HTTP REST requests to Azure's Service Management API. The results are displayed in the browser. A green heart displays if all of the cloud service's instances are healthy and a red heart displays if any of the instances are unhealthy. Ajax and jQuery are used to provide an auto-refresh feature. The results are updated every 30 seconds.<br>
+<br>The web role uses an MVC application which communicates with a database. The MVC4 application provides logical separation between the presentation layer (Views) and the application layer(access to the Models is moderated by the Controllers). The Controllers also govern access to the database layer.<br>
+<br>The user's cloud service details are stored in a database hosted in Windows Azure. The MVC4 application first gets the user's subscription, cloud service details and management certificate details from the database. It uses this information to form the request to Azure's Service Management API.<br>
+<br>User logons have been enabled for the second iteration. The health check functionality is available only to logged-in users.<br>
+<br><br><b>Worker role</b>
+<br>The worker role sends requests to Azure's Service Management API every 30 seconds. It examines the results obtained and if any of the cloud service's instances are unhealthy it sends an SMS text to the user's phone.<br>
+<br>The worker role gets the user's subscription, cloud service details and management certificate details from the database. It uses this information to form the request to Azure's Service Management API. The SMS texts are sent using an API provided by Clickatell.<br>
+<br>The worker role writes the health status results to a database in Windows Azure. This allows for a historical record to be kept. The results could be queried to examine the health status performance over time.<br>
+<br><br><b>Database design</b>
+<br>The database design has been significantly modified from the first iteration version. There are now five tables related to the health monitoring and another five for user logons. The need for extra tables was due to the new feature of recording the health status request results in the database. The five tables directly related to the monitor are:<br>
+<ul><li>Certificate<br>
+</li><li>Subscription<br>
+</li><li>CloudService<br>
+</li><li>RequestResult<br>
+</li><li>InstanceStatus</li></ul>
+
+The certificate table is not linked to the others but each of the others is linked in a one-to-many relationship. A subscription may have many cloud services. A cloud service will have many request results associated with it. A cloud service may also have many instances. Each of these instances can have a separate health status thus there is a 1:N relationship between the RequestResult table and the InstanceStatus table.<br>
+<br><br><b>Web role dynamic results display</b>
+<br>A cloud service may have a variable number of instances. The user may, for example, have two instances running for a while and then decide to change to four instances. This creates the issue of how to display the results when it is not known how many instances there will be. The results are displayed using a table. The <i>Instance</i> <i>Status</i> headers and result sections of the table have been put into a Razor foreach loop. This means that the web role will display <i>Instance</i> <i>Status</i> headers and results based on the number of instances currently running.<br>
+<br>
+<h2>Issues overcome for the second iteration</h2>
+<ul><li>Wikis have been created to describe the issues encountered and how they were overcome.<br>
+</li><li>The biggest issue overcome for the second iteration was enabling the worker role to access its certificate store in Windows Azure. It was able to access the certificate store without any problems locally but in Azure it was necessary for the runtime execution context to be elevated and for the management certificate to be stored in the LocalMachine certificate store rather than the CurrentUser store.<br>
+</li><li>Debugging a worker role: As there is no front-end for a worker role it can be difficult to debug problems. Whilst trying to debug this issue I placed an SMS push in the exception handler of the worker role Run method . The SMS push provided the details of the exception being thrown and was of great assistance in tracking down the source of the problem.<br>
+</li><li>Designing the database to accommodate a variable number of cloud services per subscription and a variable number of instances per cloud service proved to be challenging.<br>
+</li><li>Creating a dynamic GUI.<br>
+</li><li>Figuring out how the SMS API works.</li></ul>
+
+<h2>Other features</h2>
+<ul><li>MVC pattern maintained by placing most of the work in a model class and having a skinny controller.<br>
+</li><li>jQuery and CSS are used to provide a "Loading" spinner when the link has been clicked and until the results are returned.<br>
+</li><li>jQuery is used to hide the results table until the Ajax method completes successfully.<br>
+</li><li>jQuery and CSS are used to provide a graphical representation of the health status; green heart = All OK, red heart = one or more instances not ready to accept requests.<br>
+</li><li>The service being monitored and the monitoring service are in different subscriptions and different locations. Monitoring service is in South Central US, service being monitored is in West Europe.<br>
+</li><li>All jQuery scripts put in the Scripts folder rather than directly on the pages. They are bundled in BundleConfig (provides minification and minimises number of requests and payload size) and referenced on the pages.<br>
+</li><li>Favicon which works in all browsers.<br>
+</li><li>Descriptive link text used for search engine optimisation.<br>
+</li><li>Version control using Google Code Subversion and Tortoise SVN.</li></ul>

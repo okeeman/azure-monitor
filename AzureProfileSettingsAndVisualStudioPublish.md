@@ -1,0 +1,11 @@
+Windows Azure Visual Studio solutions may be uploaded to Azure from the online Azure portal or from Visual Studio.
+
+## To upload via the Azure online portal ##
+Right-click on the Azure project and select Package. This will create two files in the Azure folder of the solution > Release > bin. One is a code package (.cspkg) amd the other is a configuration file (.cscfg).
+
+## Publish(upload)from Visual Studio ##
+Uploading from Visual Studio provides the benefit of having more information about the process available in the Windows Azure Activity Window. This is especially helpful if the upload fails as it may provide the reason for the failure thus allowing the problem to be corrected. When an upload to through the portal fails no debugging information is provided. The portal will just display unhelpful error messages such as "One or more roles is unhealthy". Nonetheless, it has sometimes proven to be the case that if an upload fails from Visual Studio it will upload correctly through the portal and vice-versa.
+
+To publish from Visual Studio you must first obtain your subscription's publish settings. This file is available from the following link:
+https://windows.azure.com/download/publishprofile.aspx
+In addition to dwonloading your publish settings file this will cause Azure to create a certificate, insert it as a management certificate in your subscription and install it into the certtificate store of your computer.

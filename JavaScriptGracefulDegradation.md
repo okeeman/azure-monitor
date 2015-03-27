@@ -1,0 +1,14 @@
+## JavaScript not present ##
+
+A user's browser may not have JavaScript present for many reasons. They may be using a browser which does not support JavaScript, e.g. Opera mobile, or they may have disabled JavaScript in their PC browser for security reasons.
+
+## Error message ##
+
+A div was added to the layout view with a message informing the user that the site works best with JavaScript enabled. jQuery's hide function is used to hide the div when JavaScript is present.
+
+## Ajax ##
+
+The Ajax functionality cannot work without JavaScript. Graceful degradation is provided as the user can still click the link to make Azure Service Management API requests. The same amount of information is returned; only the auto-refresh feature does not work.
+
+If the client makes an AJAX request the server returns a Partial View to the page making the request. It returns a complete View otherwise.
+
