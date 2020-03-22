@@ -31,8 +31,8 @@ namespace WorkerRole1.Classes
     {
         private IAzureDoctorDb _db;
         PushNotifications pn = new PushNotifications();
-        const string ClickatellUsername = "okeeman";
-        const string ClickatellPassword = "ECMPIbIELWBCSA";
+        const string ClickatellUsername = "enter_user_name_here";
+        const string ClickatellPassword = "enter_password_here";
 
         // Default constructor - hits real database.
         public WorkerRole()
